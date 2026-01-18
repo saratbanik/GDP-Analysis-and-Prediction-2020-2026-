@@ -35,9 +35,9 @@ country's GDP per capita.
 4. Plotly
 5. Dataset
 
-![image](/GDP-Analysis-and-Prediction/img/first.png)
-![image](/GDP-Analysis-and-Prediction/img/second.png)
-![image](/GDP-Analysis-and-Prediction/img/third.png)
-![image](/GDP-Analysis-and-Prediction/img/fouth.png)
-![image](/GDP-Analysis-and-Prediction/img/fifth.png)
-![image](/GDP-Analysis-and-Prediction/img/sixth.png)
+![image](https://github.com/vilasrhegde/GDP-Analysis-and-Prediction/assets/85540091/0ae089a1-d0c7-437c-ab40-ea2ce5da70c5)
+![image](https://github.com/vilasrhegde/GDP-Analysis-and-Prediction/assets/85540091/28b7dfcd-5537-42f0-881e-8c473d2ec4af)
+![image](https://github.com/vilasrhegde/GDP-Analysis-and-Prediction/assets/85540091/67bd75d3-d8f0-43ec-94f1-a267dac932cc)
+![image](https://github.com/vilasrhegde/GDP-Analysis-and-Prediction/assets/85540091/284537f2-703b-433d-a07b-f1a6b768e713)
+![image](https://github.com/vilasrhegde/GDP-Analysis-and-Prediction/assets/85540091/530439e2-2ce7-43bf-9f6f-5e530f565134)
+![image](https://github.com/vilasrhegde/GDP-Analysis-and-Prediction/assets/85540091/1ea35e3e-32df-4c32-a7c2-b4d58bbd9488)
